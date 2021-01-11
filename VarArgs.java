@@ -1,4 +1,4 @@
-
+// Basic Program to Implement Varargs
 class TestVarArgs
 {
     void test(int ... v)
